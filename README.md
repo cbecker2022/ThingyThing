@@ -3,4 +3,4 @@
  - line1
  - line2
  - line3
-[go to github](https://github.com/)
+ - [go to github](https://github.com/)
